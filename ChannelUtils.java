@@ -18,7 +18,7 @@ public class ChannelUtils {
 
     public static final String Channel = "channel";
 
-    public static final String DEFAULT_CHANNEL = "yunxiao";
+    public static final String DEFAULT_CHANNEL = "web";
 
     public static final String Channel_File = "channel";
 
